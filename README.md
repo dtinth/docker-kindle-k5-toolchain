@@ -11,6 +11,8 @@ Dockerized Toolchain for Kindle Paperwhite
 Configuration
 -------------
 
+|...|...|
+|----|-----|
 |Default User|toolchain|
 |Home Directory|/uchi|
 |crosstool-ng Directory|/uchi/crosstool|
