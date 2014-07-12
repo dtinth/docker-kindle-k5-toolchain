@@ -25,4 +25,5 @@ Arigatou
 
 - http://wwsean08.com/2012/05/15/how-to-build-a-custom-toolchain-using-crosstool-ng/
 - http://www.mobileread.com/forums/showpost.php?p=2267232&postcount=15
+- http://www.mobileread.com/forums/showpost.php?p=2266891&postcount=8
 
