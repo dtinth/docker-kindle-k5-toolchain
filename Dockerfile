@@ -29,5 +29,5 @@ ENV PATH /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/uchi/cros
 ADD ct-ng.my.config /ct-ng.config
 RUN cp /ct-ng.config /uchi/kindle-toolchain/.config
 RUN cd /uchi/kindle-toolchain && ct-ng build && cd /uchi && rm -rf /uchi/kindle-toolchain
-ENV PATH /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/uchi/crosstool/bin:/uchi/x-tools/arm-kindle-k5-linux-gnueabi/bin
+ENV PATH /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/uchi/crosstool/bin:/uchi/x-tools/arm-kindle_k5-linux-gnueabi/bin
 
